@@ -1,4 +1,4 @@
 # Stara wersja FDP client, bez wirusów
-# + Kody *s* 
+# I jakieś fake kody 
 # Paczka jest tylko na crystal launcher!
 XeareGenerator
