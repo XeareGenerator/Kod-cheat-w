@@ -1,2 +1,2 @@
-# Kod-cheat-w
-Kod tego co napisałem
+# Stara wersja FDP client, bez wirusów
+# + Kody *jakies fej0kowe* 
