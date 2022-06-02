@@ -1,3 +1,3 @@
 # FDP client 3.0.0 Crystal launcher version
-# FDP client 3.0.0 Normal
+# Download crystal launcher for FDP 3.0.0
 XeareGenerator
