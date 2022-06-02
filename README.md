@@ -1,4 +1,3 @@
-# Stara wersja FDP client, bez wirusów
-# I jakieś fake kody 
-# Paczka jest tylko na crystal launcher!
+# FDP client 3.0.0
+# To launch, install crystal launcher!
 XeareGenerator
